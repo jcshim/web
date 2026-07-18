@@ -42,3 +42,7 @@ ios/Android
 HTML, CSS, JavaScript, Python, DB Postgress, Flask
 온라인(강좌+튜토리얼)
 Javascript, React Native
+
+## 변경 이력 (Changelog)
+- 2026-07-18: 기존 방명록 기능을 제거하고 Firebase Google 로그인 및 Firestore 기반 실시간 Todo 목록 기능으로 업데이트
+
